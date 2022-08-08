@@ -1,0 +1,5 @@
+DRG01,Ibuprofen,Pain Killer,R25
+DRG02,Nurofen,Pain Killer,R60
+DRG03,Benlyn,Cough Syrup,R35
+DRG04,Betadine,Antiseptic,R20
+DRG05,Amoxicillin,Antibiotic,R45
